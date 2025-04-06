@@ -1,12 +1,13 @@
 [
   {
     "id": 1,
-    "name": "ギット 太郎",
+    "name": "山田 太郎",
     "birthday": "2014-06-12",
     "familyGroup": "山田家",
     "troop": "カブ",
     "gender": "男",
-    "isPinned": false
+    "isPinned": false,
+    "iconName": "cub_boy"
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "familyGroup": "佐藤家",
     "troop": "ビーバー",
     "gender": "女",
-    "isPinned": true
+    "isPinned": true,
+    "iconName": "cub_boy"
   }
 ]
 
