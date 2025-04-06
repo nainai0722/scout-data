@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "山田 太郎",
-    "birthday": "2014-06-12",
+    "birthDate": "2014-06-12",
     "familyGroup": "山田家",
     "troop": "カブ",
     "gender": "男",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "name": "佐藤 花子",
-    "birthday": "2015-03-22",
+    "birthDate": "2015-03-22",
     "familyGroup": "佐藤家",
     "troop": "ビーバー",
     "gender": "女",
